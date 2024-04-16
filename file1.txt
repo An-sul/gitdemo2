@@ -1,3 +1,7 @@
 Hello World
 
+<<<<<<< HEAD
 master branch changed
+=======
+one more adding
+>>>>>>> feature_b
